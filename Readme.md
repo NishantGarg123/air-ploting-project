@@ -4,3 +4,6 @@ navbar footer
 # font awesome
 select a font 
 include the font awesome cdn link to use the icons
+
+# github link
+https://github.com/NishantGarg123/air-ploting-project
